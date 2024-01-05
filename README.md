@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Developing a Blog Website with Django
 [![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/731950256/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/731950256/week.md) ![Static Badge](https://img.shields.io/badge/python-3.10-blue?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3100%2F) ![Static Badge](https://img.shields.io/badge/django-5.0-orange)
-# 💥Features of this project💥
+# Features of this project
 * The user can log in and log out 🔐
 * The user can access his profile and change the profile info 💁
 * The user can also add & change his profile picture 💁
@@ -42,4 +42,4 @@ Open up a browser and visit: <span style="color: blue;">http://127.0.0.1:8000/</
 All Set! 🤩🔥
 =======
 # BlogWebApplication
->>>>>>> 5b8a81b60d647f7b4ffe68a933ce63d371a23460
+
